@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+
+body {
+  margin: 50px;
+  font-size: 30px;
+  display: flex;
+  padding-top: 100px;
+  display: flex;
+}
+
+button {
+  font-family: 'Baloo', cursive;
+  font-size: 36px;
+  border: none;
+  margin: 5px;
+}
+
+#buttonOne {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  background-color: #b030a5;
+}
+
+#buttonTwo {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  background-color: #5bc8e9;
+}
+
+#buttonThree {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  background-color: #7ac840;
+}
+
+#buttonFour {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  background-color: #ef8f3e;
+}
+
+#buttonFive {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  background-color: #e970cd;
+}
+
+#read {
+  height: auto;
+  background-color: #ecda49;
+}
+
+#reset {
+  color: #999999;
+  height: 60px;
+  background-color: #dddddd;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 29px;
+  margin: 10px;
+}
